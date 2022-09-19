@@ -10,14 +10,12 @@ const urlencode = require("urlencode");
 const axios = require("axios");
 const menu = require("./lib/menu.js");
 const tambahan = require("./lib/tambahan.js")
-const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
-const instagram = 'https://instagram.com/reuz.id'; 
-const telegram = 'https://t.me/reuzzz'; 
+const BotName = 'Robot BCS INDONESIA🇲🇨'; 
+const instagram = 'https://instagram.com/b.c.s_indonesia?igshid=YmMyMTA2M2Y='; 
+const facebook = 'https://www.facebook.com/groups/2169699726576865/?ref=share'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
